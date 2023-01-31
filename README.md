@@ -15,6 +15,7 @@ Visual Studio Code
 
 ## Usage
 If you have your own Azure subsctiption start [here]()
+
 If you do not have own Azure subscription start [here]()
 
 ## Video record
