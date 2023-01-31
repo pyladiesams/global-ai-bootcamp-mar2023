@@ -1,22 +1,24 @@
-# {Event name}
+# Global AI Bootcamp 2023
 
-## Meetup description
-This meetup is all about {meetup topic description}.
+## Workshops description
 
-### Talk 1 - {Name of the talk}
+### Workshop 1 - {Name of the workshop}
 
-{Talk description}
+{Workshop description}
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+### Workshop 2 - {Name of the workshop}
 
-### Talk 2 - {Name of the talk}
+{Workshop description}
 
-{Talk description}
+## Requirements
+Visual Studio Code
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+## Usage
+If you have your own Azure subsctiption start [here]()
+If you do not have own Azure subscription start [here]()
 
 ## Video record
 Re-watch YouTube stream [here](link)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This workshop was set up by @pyladiesams and Global AI Community
