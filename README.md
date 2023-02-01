@@ -11,7 +11,7 @@
 {Workshop description}
 
 ## Requirements
-Visual Studio Code
+Visual Studio Code with Python and AzureML extensions
 
 ## Usage
 If you have your own Azure subsctiption start [here]()
