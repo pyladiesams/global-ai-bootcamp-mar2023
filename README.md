@@ -29,7 +29,7 @@ If you do not have own Azure subscription start [here]()
 [Lighting talk presentation](here)
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/6sAAXNrFJuU?feature=share)
 
 ## Credits
 This workshop was set up by @pyladiesams and Global AI Community
