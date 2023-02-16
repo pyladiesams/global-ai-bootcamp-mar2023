@@ -26,9 +26,15 @@ Most of the forms we complete nowadays are online but there are still times when
 Visual Studio Code with Python and AzureML extensions
 
 ## Usage
-If you have your own Azure subsctiption start [here]()
+If you have your own Azure subsctiption, choose one of the workshops and follow the link to the chosen workshop.
 
-If you do not have own Azure subscription start [here]()
+If you do not have own Azure subscription follow these steps:
+- Navigate to: http://globalai.community/checkin
+- Enter your name and email
+- Watch your mailbox for the confirmation email
+- Click the activation link in the email
+- Enter the event code (will be provided during the event)
+- Your Azure pass will arrive shortly in your email.
 
 ### Bonus: 
 
