@@ -24,7 +24,7 @@ If you have your own Azure subsctiption start [here]()
 
 If you do not have own Azure subscription start [here]()
 
-## Bonus: [Lighting talk presentation](here)
+### Bonus: [Lighting talk presentation](here)
 
 ## Video record
 Re-watch YouTube stream [here](link)
