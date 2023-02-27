@@ -38,6 +38,7 @@ If you do not have own Azure subscription follow these steps:
 
 ### Bonus: 
 How to handle giant career (and life) leaps by [Anna Cwojdzinska](https://cwojdzinska.com/)
+
 [Lighting talk presentation](here)
 
 ## Video record
